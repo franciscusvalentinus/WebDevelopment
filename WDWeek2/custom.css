@@ -1,0 +1,10 @@
+.hideme
+{
+    display:none;
+    visibility:hidden;
+}
+.showme
+{
+    display:inline;
+    visibility:visible;
+}
